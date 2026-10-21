@@ -7,7 +7,7 @@ This repository contains various Machine Learning projects and practice notebook
 * **`add_prediction.ipynb`** - Notebook for ad spend prediction model.
 * **`coffee_sales_pred.ipynb`** - Notebook predicting coffee sales based on features.
 * **`employee_salary_pred.ipynb`** - Model predicting employee salary based on experience/features.
-* **`advertising.csv` / `coffee_shop_sales_dataset.xlsx` / `Healthcare-Diabetes.csv` / `HR-Employee-Attrition.csv`** - Datasets used in the analysis and modeling.
+* **`advertising.csv` / `coffee_shop_sales_dataset.xlsx`/ `HR-Employee-Attrition.csv`** - Datasets used in the analysis and modeling.
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
